@@ -1,0 +1,12 @@
+
+# info
+put xml to path: /data/data/com.skgames.trafficrider/shared_prefs/
+
+# xml
+- enc value : money and coin value saved twice, enc via different key, double check
+- money
+  - ApKDAxGLEBC%2FA9W7YBCn
+  - EpKbA5CzERCvEBWDQ5Gn
+- coin
+  - UtWnU.C7EhGXIJaHYFGX
+  - QtaPU9GjAxGHIFWPUNKX
